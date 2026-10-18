@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or quote this guide, please cite it as below."
+type: dataset
+title: "Seedance prompt guide: a first-hand field guide and prompt library for Seedance 2.0 Fast and 2.5"
+authors:
+  - name: "Katechon"
+    website: "https://katechon.technology"
+date-released: "2026-10-18"
+version: "2026-10-18"
+license: CC-BY-4.0
+url: "https://cast.katechon.technology/guides/seedance-prompts"
+repository: "https://github.com/Katechon-Technology/seedance-prompt-guide"
+keywords:
+  - seedance
+  - ai video
+  - prompt engineering
+  - text-to-video
+  - image-to-video
+  - ai character
