@@ -2,7 +2,7 @@
 
 A first-hand field guide to prompting ByteDance **Seedance 2.0 Fast** and **Seedance 2.5** for short vertical AI videos, plus a library of the **exact prompts behind published videos**: the opening-frame prompt, the timed video prompt, the song prompt where there is one, and why each one worked.
 
-Written by [Katechon](https://katechon.technology) from rendering dozens of published videos in October 2026. Every number is either measured on our own account or quoted from the provider, with the date. Licensed [CC BY 4.0](LICENSE).
+Written by [Katechon](https://katechon.technology) from rendering dozens of published videos in October 2026, most of them for **[Malfoid](https://malfoid.tv/?s=github)**, our original AI series (Season 1 premieres October 31, 2026). Every number is either measured on our own account or quoted from the provider, with the date. Licensed [CC BY 4.0](LICENSE).
 
 - Web version: <https://cast.katechon.technology/guides/seedance-prompts?utm_source=github>
 - Prompt library on the web: <https://cast.katechon.technology/prompts?utm_source=github>
